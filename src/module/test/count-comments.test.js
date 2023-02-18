@@ -1,7 +1,4 @@
-/**
- * @jest-environment jsdom
- */
-/* global globalThis */
+
 import fetch from 'cross-fetch';
 import countComments from '../count-comments.js';
 import addNewComment from '../add-new-comment.js';
