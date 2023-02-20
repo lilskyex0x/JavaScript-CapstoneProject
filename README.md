@@ -170,4 +170,4 @@ I would like to thank:
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT license](https://choosealicense.com/licenses/mit/)licensed.

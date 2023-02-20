@@ -231,15 +231,6 @@ button {
   margin: 1em 1em;
 }
 
-/*
-.meal-popup-close-icon {
-  font-size: 32px;
-  color: black;
-  position: fixed;
-  top: 18px;
-  right: 28px;
-}
-*/
 .meal-popup-div-img {
   display: flex;
   justify-content: center;

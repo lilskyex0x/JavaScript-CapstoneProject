@@ -2,7 +2,6 @@ import showPopupComment from './show-popup-comment.js';
 import addLike from './add-like.js';
 import count from './count-items.js';
 import showlikes from './display-likes.js';
-// import displayComments from './display-comments.js';
 
 async function getData(filter = '') {
   let response;
